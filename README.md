@@ -69,4 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-HOISTED LINK :- https://tubular-manatee-670fe1.netlify.app/
+HOISTED LINK :- https://6475885c82d5091af4b6fa42--relaxed-toffee-c31570.netlify.app/
